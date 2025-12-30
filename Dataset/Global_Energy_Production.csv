@@ -1,0 +1,1001 @@
+Country,Region,Year,Energy_Type,Production_GWh,CO2_Saved_tons
+South Africa,Africa,2015,Tidal,3775.64,2376.22
+South Africa,Africa,2015,Biomass,1365.34,1885.7
+South Africa,Africa,2015,Wind,3347.59,4491.44
+South Africa,Africa,2015,Solar,1356.85,1403.64
+China,Asia,2015,Geothermal,5680.27,7724.47
+China,Asia,2015,Hydro,4694.22,3648.09
+China,Asia,2015,Tidal,3388.36,2544.51
+China,Asia,2015,Solar,6634.04,9413.36
+India,Asia,2015,Tidal,4868.3,3305.22
+India,Asia,2015,Wind,4034.39,5570.85
+India,Asia,2015,Geothermal,10521.01,10380.5
+India,Asia,2015,Hydro,1641.79,1589.28
+India,Asia,2015,Solar,8230.28,7023.01
+India,Asia,2015,Biomass,5571.36,8492.48
+Japan,Asia,2015,Hydro,2681.15,2410.98
+Japan,Asia,2015,Geothermal,2306.79,3018.99
+Japan,Asia,2015,Solar,2189.88,2314.68
+Japan,Asia,2015,Tidal,2726.71,3613.77
+Japan,Asia,2015,Biomass,1682.47,2143.14
+Japan,Asia,2015,Wind,1731.81,2100.8
+Saudi Arabia,Asia,2015,Tidal,4565.12,6431.38
+Saudi Arabia,Asia,2015,Solar,4518.14,4034.35
+Saudi Arabia,Asia,2015,Biomass,8666.76,12199.11
+Saudi Arabia,Asia,2015,Geothermal,2634.44,2693.03
+South Korea,Asia,2015,Geothermal,3009.78,3646.36
+South Korea,Asia,2015,Tidal,2989.52,4266.08
+South Korea,Asia,2015,Hydro,2841.36,1823.66
+South Korea,Asia,2015,Solar,1650.05,2519.8
+South Korea,Asia,2015,Wind,6505.75,6017.14
+United Arab Emirates,Asia,2015,Solar,4677.5,6032.66
+United Arab Emirates,Asia,2015,Biomass,3835.75,5117.91
+United Arab Emirates,Asia,2015,Wind,3129.49,4775.36
+United Arab Emirates,Asia,2015,Hydro,1220.71,901.38
+Denmark,Europe,2015,Biomass,2285.21,2546.04
+Denmark,Europe,2015,Hydro,4116.53,4571.04
+Denmark,Europe,2015,Tidal,4506.46,5675.5
+Denmark,Europe,2015,Geothermal,5941.9,8603.76
+Finland,Europe,2015,Solar,2095.28,2717.75
+Finland,Europe,2015,Tidal,1371.86,1709.41
+Finland,Europe,2015,Geothermal,3269.03,2914.4
+Finland,Europe,2015,Biomass,1508.29,2334
+Finland,Europe,2015,Wind,3890.72,4774.99
+France,Europe,2015,Biomass,4754.11,5467.69
+France,Europe,2015,Hydro,1531.75,1429.6
+France,Europe,2015,Geothermal,2385.25,3085.74
+France,Europe,2015,Wind,3673.49,4535.97
+France,Europe,2015,Tidal,1075.9,1689.36
+Germany,Europe,2015,Geothermal,5068.69,3177.9
+Germany,Europe,2015,Biomass,851.26,1057.9
+Germany,Europe,2015,Solar,7532,9062.9
+Germany,Europe,2015,Tidal,480.7,470.66
+Italy,Europe,2015,Biomass,445.61,676.39
+Italy,Europe,2015,Wind,6151.17,7154.48
+Italy,Europe,2015,Hydro,5897.65,6441.57
+Italy,Europe,2015,Solar,9883.44,6208.84
+Italy,Europe,2015,Geothermal,993.47,827.19
+Netherlands,Europe,2015,Geothermal,6670.85,9426.89
+Netherlands,Europe,2015,Biomass,6069.6,7059.97
+Netherlands,Europe,2015,Hydro,1195.14,1848.9
+Norway,Europe,2015,Geothermal,3496.73,3254.07
+Norway,Europe,2015,Wind,1195.81,1343.07
+Norway,Europe,2015,Biomass,3511.36,5039.62
+Norway,Europe,2015,Tidal,384.24,427.16
+Norway,Europe,2015,Hydro,1222.29,781.54
+Poland,Europe,2015,Hydro,3955.32,3655.64
+Poland,Europe,2015,Tidal,817.19,1059.32
+Poland,Europe,2015,Solar,1147.74,1259.24
+Poland,Europe,2015,Wind,4263.13,4374.87
+Poland,Europe,2015,Biomass,3449.9,3227.39
+Spain,Europe,2015,Hydro,2400.6,3219.07
+Spain,Europe,2015,Solar,4924.05,5136.33
+Spain,Europe,2015,Wind,2218.58,2763.36
+Spain,Europe,2015,Tidal,353.97,280.61
+Spain,Europe,2015,Geothermal,4417.4,4926.59
+Sweden,Europe,2015,Biomass,2685.44,4180.43
+Sweden,Europe,2015,Wind,897.83,1318.05
+Sweden,Europe,2015,Solar,2634.2,3565.64
+Sweden,Europe,2015,Tidal,2305.48,1413.18
+Sweden,Europe,2015,Geothermal,4131.96,3667.69
+United Kingdom,Europe,2015,Solar,7626.4,11511.19
+United Kingdom,Europe,2015,Biomass,7575.11,5715.59
+United Kingdom,Europe,2015,Geothermal,5278.28,7089.47
+United Kingdom,Europe,2015,Hydro,1172.3,1743.51
+Canada,North America,2015,Tidal,4921.53,7811.62
+Canada,North America,2015,Geothermal,2123.98,3256.61
+Canada,North America,2015,Solar,3507.52,3492.74
+Canada,North America,2015,Hydro,6591.43,10520.56
+Mexico,North America,2015,Geothermal,2778.41,3997.23
+Mexico,North America,2015,Biomass,6050.87,6030.92
+Mexico,North America,2015,Hydro,4019.37,4424.49
+Mexico,North America,2015,Tidal,1170.56,1864.22
+Mexico,North America,2015,Wind,2887.24,3913.97
+United States,North America,2015,Geothermal,1102.27,1310.89
+United States,North America,2015,Tidal,1716.95,1608.09
+United States,North America,2015,Hydro,270.58,216.15
+United States,North America,2015,Solar,3099.3,3956.87
+Australia,Oceania,2015,Wind,2996.3,4685.7
+Australia,Oceania,2015,Tidal,1577.75,2155.08
+Australia,Oceania,2015,Hydro,2822.3,2866.41
+Australia,Oceania,2015,Geothermal,722.42,455.75
+Argentina,South America,2015,Biomass,4147.05,5842.76
+Argentina,South America,2015,Tidal,506.64,560.14
+Argentina,South America,2015,Geothermal,785.18,842.62
+Argentina,South America,2015,Solar,4216.84,4508.78
+Brazil,South America,2015,Wind,4022.26,4104.16
+Brazil,South America,2015,Hydro,3686.3,5554.4
+Brazil,South America,2015,Tidal,767.07,462.91
+Brazil,South America,2015,Solar,2091.41,2863.08
+Brazil,South America,2015,Geothermal,2801.17,3191.37
+Chile,South America,2015,Wind,5016.01,6899.69
+Chile,South America,2015,Tidal,681.82,727.42
+Chile,South America,2015,Geothermal,4249.75,4502.05
+Chile,South America,2015,Hydro,4543.75,6988.4
+South Africa,Africa,2016,Hydro,3220.72,2754.09
+South Africa,Africa,2016,Geothermal,5460.18,4523.24
+South Africa,Africa,2016,Biomass,6080.65,5135.42
+South Africa,Africa,2016,Solar,1358.89,1783.3
+South Africa,Africa,2016,Wind,4100.9,3937.37
+South Africa,Africa,2016,Tidal,1026.31,1571.44
+China,Asia,2016,Geothermal,4377.87,4652.41
+China,Asia,2016,Biomass,6954.23,7300.09
+China,Asia,2016,Solar,2710.74,2371.01
+China,Asia,2016,Hydro,768.33,1125.03
+China,Asia,2016,Tidal,2018.36,2171.01
+China,Asia,2016,Wind,2359.09,2481.56
+India,Asia,2016,Tidal,4124.93,6405.15
+India,Asia,2016,Wind,3437.29,4133.76
+India,Asia,2016,Biomass,1719.28,2127.63
+India,Asia,2016,Hydro,3446.89,2214.13
+India,Asia,2016,Solar,8064.44,7429.05
+Japan,Asia,2016,Hydro,2153.86,2627.14
+Japan,Asia,2016,Solar,2278.15,3570.02
+Japan,Asia,2016,Wind,3454.57,4564.87
+Japan,Asia,2016,Biomass,328.29,299.96
+Japan,Asia,2016,Geothermal,2786.49,1759.86
+Saudi Arabia,Asia,2016,Hydro,711.63,807.68
+Saudi Arabia,Asia,2016,Tidal,4187.31,6691.17
+Saudi Arabia,Asia,2016,Biomass,1989.35,2175.51
+Saudi Arabia,Asia,2016,Wind,4069.05,4975.45
+South Korea,Asia,2016,Solar,6447.11,6418.81
+South Korea,Asia,2016,Biomass,1461.3,2089.5
+South Korea,Asia,2016,Geothermal,4312.28,5231.37
+South Korea,Asia,2016,Tidal,950.94,1311.09
+United Arab Emirates,Asia,2016,Solar,6515.35,7787.35
+United Arab Emirates,Asia,2016,Biomass,429.31,591.34
+United Arab Emirates,Asia,2016,Tidal,282.68,322.24
+United Arab Emirates,Asia,2016,Geothermal,4966.89,4106.22
+United Arab Emirates,Asia,2016,Hydro,1597.93,2264.49
+Denmark,Europe,2016,Biomass,5415.57,7742.35
+Denmark,Europe,2016,Hydro,5527.41,5313.23
+Denmark,Europe,2016,Wind,1236.37,1198.58
+Denmark,Europe,2016,Solar,7800.48,7479.07
+Finland,Europe,2016,Hydro,2078.2,3264.28
+Finland,Europe,2016,Wind,1138.06,1581.16
+Finland,Europe,2016,Tidal,3914.64,4957.33
+Finland,Europe,2016,Solar,5352.67,7718.06
+Finland,Europe,2016,Geothermal,2073.09,2189.03
+Finland,Europe,2016,Biomass,4437.06,3927.89
+France,Europe,2016,Hydro,4534.31,3643.58
+Germany,Europe,2016,Hydro,7224.57,6863.06
+Germany,Europe,2016,Solar,8821.52,8637.38
+Germany,Europe,2016,Geothermal,7999.91,10833.74
+Germany,Europe,2016,Tidal,2907.13,2377.93
+Italy,Europe,2016,Biomass,8943.46,11171.99
+Italy,Europe,2016,Wind,9174.11,13400.34
+Italy,Europe,2016,Tidal,2972.09,4543.87
+Netherlands,Europe,2016,Solar,757.24,542.39
+Netherlands,Europe,2016,Wind,6307.8,8054.51
+Netherlands,Europe,2016,Geothermal,1674.36,1160.35
+Netherlands,Europe,2016,Tidal,3212.77,2792.14
+Netherlands,Europe,2016,Biomass,1006.82,1541.84
+Norway,Europe,2016,Solar,1598.19,1328.35
+Norway,Europe,2016,Geothermal,716.64,973.34
+Norway,Europe,2016,Wind,2812.9,1968.49
+Norway,Europe,2016,Biomass,3076.69,2370.63
+Poland,Europe,2016,Tidal,1515.99,2331.73
+Poland,Europe,2016,Wind,3482.66,4797.93
+Poland,Europe,2016,Geothermal,3836.6,3898.84
+Poland,Europe,2016,Hydro,246.8,192.36
+Spain,Europe,2016,Wind,2051,2919.61
+Spain,Europe,2016,Hydro,773.85,487.96
+Spain,Europe,2016,Solar,2124.29,2244.2
+Sweden,Europe,2016,Geothermal,1332.22,1708.78
+Sweden,Europe,2016,Hydro,3388.9,4663.62
+Sweden,Europe,2016,Solar,5386.63,7918.98
+Sweden,Europe,2016,Biomass,2268.69,2216.96
+Sweden,Europe,2016,Wind,5700.57,7112.22
+United Kingdom,Europe,2016,Wind,2322.71,2986.26
+United Kingdom,Europe,2016,Hydro,4208.87,4201.04
+United Kingdom,Europe,2016,Geothermal,6119.68,6454.53
+United Kingdom,Europe,2016,Biomass,6632.69,4121.27
+United Kingdom,Europe,2016,Tidal,1195.47,1392.22
+Canada,North America,2016,Biomass,9605.87,6650.13
+Canada,North America,2016,Wind,2656.96,1900.87
+Canada,North America,2016,Solar,8684.04,7810.24
+Canada,North America,2016,Tidal,364.53,499.81
+Canada,North America,2016,Geothermal,6112.16,5280.81
+Canada,North America,2016,Hydro,2357.55,2840.45
+Mexico,North America,2016,Tidal,686.65,720.19
+Mexico,North America,2016,Hydro,1012.58,763.71
+Mexico,North America,2016,Geothermal,5528.94,5068.26
+Mexico,North America,2016,Wind,1218.81,1485.26
+United States,North America,2016,Biomass,472.35,393.37
+United States,North America,2016,Solar,3371.42,4058.27
+United States,North America,2016,Geothermal,3401.22,2196.59
+United States,North America,2016,Wind,3136.68,4934.36
+Australia,Oceania,2016,Wind,4709.85,3021.89
+Australia,Oceania,2016,Biomass,3574.34,3713.99
+Australia,Oceania,2016,Geothermal,2000.28,3199.07
+Argentina,South America,2016,Geothermal,2913.32,4076.82
+Argentina,South America,2016,Solar,1399.72,1233.11
+Argentina,South America,2016,Biomass,867.59,646.42
+Argentina,South America,2016,Wind,1021.63,791.37
+Brazil,South America,2016,Biomass,528.21,334.66
+Brazil,South America,2016,Solar,3219.75,3684.83
+Brazil,South America,2016,Tidal,353.1,473.35
+Chile,South America,2016,Hydro,1749.63,1821.57
+Chile,South America,2016,Geothermal,1590.84,978.77
+South Africa,Africa,2017,Hydro,2525.99,2783.74
+South Africa,Africa,2017,Tidal,3838.03,2333.4
+South Africa,Africa,2017,Solar,11981.58,16063.29
+South Africa,Africa,2017,Wind,4283.74,5655.77
+South Africa,Africa,2017,Biomass,4268.85,3766.44
+China,Asia,2017,Biomass,5493.73,6852.36
+China,Asia,2017,Solar,1113.25,1668.9
+China,Asia,2017,Hydro,2569.74,2885.17
+India,Asia,2017,Hydro,6391.71,9899.63
+India,Asia,2017,Tidal,2953.92,3431.49
+India,Asia,2017,Geothermal,5967.37,6739.91
+India,Asia,2017,Biomass,2908.42,2075.01
+India,Asia,2017,Wind,4190.92,4119.06
+India,Asia,2017,Solar,9355.13,5938.63
+Japan,Asia,2017,Wind,1402.01,1769.65
+Japan,Asia,2017,Solar,5270.93,3490.84
+Japan,Asia,2017,Geothermal,2964.87,3916.37
+Japan,Asia,2017,Hydro,820.96,1241.39
+Japan,Asia,2017,Biomass,3050.94,2417.15
+Saudi Arabia,Asia,2017,Biomass,8698.86,5510.82
+Saudi Arabia,Asia,2017,Hydro,7233.93,10252.29
+Saudi Arabia,Asia,2017,Tidal,4059.1,6421.97
+Saudi Arabia,Asia,2017,Solar,5882.88,8492.21
+Saudi Arabia,Asia,2017,Wind,9432.37,6332.75
+South Korea,Asia,2017,Hydro,2015.76,2603.79
+South Korea,Asia,2017,Tidal,3049.77,4726.39
+South Korea,Asia,2017,Biomass,3077.66,3458.73
+South Korea,Asia,2017,Solar,2609.9,2645.29
+South Korea,Asia,2017,Wind,5331.65,6998.51
+United Arab Emirates,Asia,2017,Biomass,2281.68,3134.63
+United Arab Emirates,Asia,2017,Tidal,1215.72,1322.53
+United Arab Emirates,Asia,2017,Geothermal,2247.64,1459.42
+Denmark,Europe,2017,Biomass,2462.82,1938.01
+Denmark,Europe,2017,Hydro,5078.69,5495.7
+Denmark,Europe,2017,Wind,10144.44,11324.97
+Finland,Europe,2017,Solar,701.81,643.3
+Finland,Europe,2017,Biomass,1225.95,1297.11
+Finland,Europe,2017,Wind,1348.1,1567.15
+Finland,Europe,2017,Geothermal,1908.57,2901.85
+France,Europe,2017,Solar,4952.87,3553.52
+France,Europe,2017,Biomass,2444.48,3397.84
+France,Europe,2017,Geothermal,5325.42,5901.85
+France,Europe,2017,Hydro,5318.23,4487.16
+France,Europe,2017,Wind,5566.84,6172.91
+Germany,Europe,2017,Geothermal,9023.1,6099.58
+Germany,Europe,2017,Biomass,1947.71,2673.19
+Germany,Europe,2017,Tidal,1584.87,2510.19
+Germany,Europe,2017,Wind,9518.79,14894.25
+Germany,Europe,2017,Solar,3641.44,4396.12
+Italy,Europe,2017,Biomass,4519.03,6944.34
+Italy,Europe,2017,Tidal,1102.53,1744.62
+Italy,Europe,2017,Wind,1606.03,2134.14
+Italy,Europe,2017,Geothermal,4550.38,6921.3
+Italy,Europe,2017,Solar,5701.13,4420.38
+Netherlands,Europe,2017,Hydro,3021.46,2284.21
+Netherlands,Europe,2017,Solar,9409.63,10341.18
+Netherlands,Europe,2017,Tidal,2271.63,3601.35
+Netherlands,Europe,2017,Wind,6627.89,5347.24
+Netherlands,Europe,2017,Geothermal,4581.94,5788.93
+Netherlands,Europe,2017,Biomass,4365.85,2804.02
+Norway,Europe,2017,Solar,1542.74,1543.94
+Norway,Europe,2017,Geothermal,4118.66,3127.69
+Norway,Europe,2017,Tidal,901.69,567
+Poland,Europe,2017,Geothermal,3116.47,3551.91
+Poland,Europe,2017,Tidal,1949.06,3057.24
+Poland,Europe,2017,Solar,1291.29,1420.27
+Poland,Europe,2017,Wind,5642.19,5347.97
+Poland,Europe,2017,Hydro,560.47,633.44
+Spain,Europe,2017,Solar,5676.71,8271.6
+Spain,Europe,2017,Biomass,1738.37,2724.07
+Spain,Europe,2017,Wind,1957.97,1976.58
+Sweden,Europe,2017,Tidal,798.49,649.45
+Sweden,Europe,2017,Biomass,2194.11,2229.06
+Sweden,Europe,2017,Geothermal,2078.06,1703.93
+Sweden,Europe,2017,Solar,4538.8,3425.91
+United Kingdom,Europe,2017,Hydro,1635.99,1194.26
+United Kingdom,Europe,2017,Biomass,2785.63,2573.29
+United Kingdom,Europe,2017,Geothermal,5416.19,3389.34
+Canada,North America,2017,Biomass,11495.39,9312.15
+Canada,North America,2017,Solar,9376.12,10798.29
+Canada,North America,2017,Hydro,9311.84,11011.34
+Canada,North America,2017,Tidal,3488.81,5177.86
+Canada,North America,2017,Wind,1256.8,1863.97
+Mexico,North America,2017,Hydro,775.2,1163.68
+Mexico,North America,2017,Solar,788.43,752.09
+Mexico,North America,2017,Wind,2584.96,2546.8
+Mexico,North America,2017,Tidal,1308.11,1418.29
+Mexico,North America,2017,Geothermal,5669.06,4362.81
+United States,North America,2017,Geothermal,3957.64,5445.71
+United States,North America,2017,Solar,1486.48,2284.21
+Australia,Oceania,2017,Tidal,4195.42,6681.15
+Australia,Oceania,2017,Hydro,1094.78,1246.7
+Australia,Oceania,2017,Wind,1103.54,890.49
+Australia,Oceania,2017,Geothermal,1655.06,1435.5
+Argentina,South America,2017,Biomass,3095.99,2306.98
+Argentina,South America,2017,Hydro,1102.03,1100.65
+Brazil,South America,2017,Wind,1548.95,2192.98
+Brazil,South America,2017,Tidal,2849.88,2927.4
+Brazil,South America,2017,Hydro,2716.88,3457.32
+Brazil,South America,2017,Geothermal,808.91,1019.4
+Chile,South America,2017,Solar,4758.58,4467.06
+Chile,South America,2017,Biomass,5834.07,7659.54
+Chile,South America,2017,Wind,3571.02,4554.82
+Chile,South America,2017,Hydro,2082.01,1621.85
+Chile,South America,2017,Tidal,5097.03,6910.26
+South Africa,Africa,2018,Wind,5996.7,8231.15
+South Africa,Africa,2018,Biomass,11693.87,7033.42
+South Africa,Africa,2018,Solar,4201.4,5137.13
+South Africa,Africa,2018,Hydro,6773.97,5724.86
+China,Asia,2018,Biomass,6921.34,9266.11
+China,Asia,2018,Tidal,3379.3,3458.4
+China,Asia,2018,Solar,9345.34,13768.3
+China,Asia,2018,Geothermal,3200.8,4454.43
+China,Asia,2018,Wind,1567.35,1488.7
+India,Asia,2018,Hydro,8851.77,9251.08
+India,Asia,2018,Geothermal,7340.35,6750.1
+India,Asia,2018,Biomass,4321.37,6444.6
+India,Asia,2018,Tidal,7580.86,9382.83
+Japan,Asia,2018,Wind,4254,5936.05
+Japan,Asia,2018,Solar,1322.98,1726.47
+Japan,Asia,2018,Biomass,2818.13,2666.98
+Japan,Asia,2018,Hydro,2149.77,2106.12
+Saudi Arabia,Asia,2018,Geothermal,2065.83,2546.98
+Saudi Arabia,Asia,2018,Wind,10920.43,12241
+Saudi Arabia,Asia,2018,Hydro,2519.49,3747.79
+Saudi Arabia,Asia,2018,Solar,5860.33,5409.45
+Saudi Arabia,Asia,2018,Tidal,758.94,1049.97
+South Korea,Asia,2018,Hydro,3505.71,3188.51
+South Korea,Asia,2018,Wind,2364.4,3472.87
+South Korea,Asia,2018,Biomass,4639.77,3958.24
+South Korea,Asia,2018,Tidal,3633.06,2200.73
+United Arab Emirates,Asia,2018,Geothermal,2952.01,1842.66
+United Arab Emirates,Asia,2018,Tidal,304.28,431.52
+United Arab Emirates,Asia,2018,Wind,3750.05,3462.84
+United Arab Emirates,Asia,2018,Hydro,3381.06,3460.65
+Denmark,Europe,2018,Tidal,3246.4,2868.05
+Denmark,Europe,2018,Solar,8355.8,9014.36
+Denmark,Europe,2018,Biomass,7151.99,8322.09
+Denmark,Europe,2018,Wind,8063.58,5019.14
+Finland,Europe,2018,Biomass,5202.6,5441.78
+France,Europe,2018,Tidal,3146.74,4470.72
+France,Europe,2018,Solar,4381.46,7005.53
+France,Europe,2018,Wind,3521.3,3328.06
+Germany,Europe,2018,Geothermal,9264.66,14503.58
+Germany,Europe,2018,Hydro,6777.89,9683.62
+Germany,Europe,2018,Solar,7087.06,6878.49
+Germany,Europe,2018,Wind,10840.08,15418.18
+Germany,Europe,2018,Biomass,6952.88,7533.43
+Italy,Europe,2018,Geothermal,4405.71,6913.01
+Italy,Europe,2018,Tidal,2965.57,3709.84
+Italy,Europe,2018,Wind,5172.7,4475.48
+Netherlands,Europe,2018,Geothermal,4900.78,3797.13
+Netherlands,Europe,2018,Biomass,4424.24,5703.78
+Netherlands,Europe,2018,Hydro,2997.56,3419.52
+Netherlands,Europe,2018,Tidal,1577.98,1460.32
+Norway,Europe,2018,Geothermal,3575.48,5641.73
+Norway,Europe,2018,Solar,7917.25,5784.78
+Norway,Europe,2018,Wind,2647.96,1710.51
+Norway,Europe,2018,Biomass,2877.58,3742.52
+Poland,Europe,2018,Biomass,4018.23,4792.57
+Poland,Europe,2018,Geothermal,4315.99,4683.11
+Poland,Europe,2018,Wind,2763.89,2582.29
+Poland,Europe,2018,Solar,4126.54,2653.84
+Poland,Europe,2018,Hydro,640.05,857.93
+Spain,Europe,2018,Solar,4284.16,6101.98
+Spain,Europe,2018,Wind,2572.39,3247.27
+Spain,Europe,2018,Biomass,1877.42,2461.47
+Spain,Europe,2018,Tidal,772.1,1054.28
+Sweden,Europe,2018,Tidal,3029.5,4308.28
+Sweden,Europe,2018,Geothermal,5928.49,7603.59
+Sweden,Europe,2018,Solar,1795.53,2428.73
+Sweden,Europe,2018,Biomass,5888.9,5805.72
+United Kingdom,Europe,2018,Wind,10080.11,6485.19
+United Kingdom,Europe,2018,Geothermal,5358.62,5367.29
+United Kingdom,Europe,2018,Hydro,6862.92,7261.26
+United Kingdom,Europe,2018,Solar,11513.43,12817.19
+Canada,North America,2018,Solar,3013.3,4609.99
+Canada,North America,2018,Geothermal,11329.33,9820.33
+Canada,North America,2018,Tidal,2996.19,2712.12
+Canada,North America,2018,Hydro,3136.74,4801.77
+Canada,North America,2018,Biomass,8643.54,12607.41
+Canada,North America,2018,Wind,13610.78,20163.23
+Mexico,North America,2018,Hydro,4730.34,6641.76
+Mexico,North America,2018,Geothermal,5241.63,7650.2
+Mexico,North America,2018,Solar,2281.97,2795.49
+United States,North America,2018,Tidal,1822.93,2058.3
+Australia,Oceania,2018,Geothermal,4707.17,3262.51
+Australia,Oceania,2018,Hydro,1504,1525.39
+Australia,Oceania,2018,Solar,5384.76,4575.31
+Australia,Oceania,2018,Wind,5569.96,7108.58
+Australia,Oceania,2018,Biomass,4417.52,4280.89
+Argentina,South America,2018,Geothermal,2272.37,3120.31
+Argentina,South America,2018,Solar,6667.78,4274.16
+Argentina,South America,2018,Hydro,2733.56,2370.24
+Argentina,South America,2018,Biomass,4277.61,3400.38
+Brazil,South America,2018,Hydro,2442.29,3539.71
+Brazil,South America,2018,Tidal,1541.5,2346.51
+Brazil,South America,2018,Geothermal,4181.23,6333.48
+Brazil,South America,2018,Wind,2735.3,2049.33
+Chile,South America,2018,Geothermal,4198.08,5455.89
+Chile,South America,2018,Tidal,1286.06,1364.82
+Chile,South America,2018,Wind,6270.82,8216.13
+Chile,South America,2018,Hydro,1734.28,2533.95
+South Africa,Africa,2019,Biomass,5589.86,5785.41
+China,Asia,2019,Solar,2007.18,1634.23
+China,Asia,2019,Geothermal,957.55,897
+China,Asia,2019,Biomass,2766,2108.38
+China,Asia,2019,Wind,2640.75,1947.73
+China,Asia,2019,Tidal,5065.53,3877.86
+China,Asia,2019,Hydro,962.17,1319.01
+India,Asia,2019,Biomass,9043.4,6093
+India,Asia,2019,Tidal,4179.47,5350.18
+India,Asia,2019,Hydro,5362.61,6499.21
+Japan,Asia,2019,Geothermal,3378.55,2044.64
+Japan,Asia,2019,Hydro,524.06,531.03
+Japan,Asia,2019,Biomass,2498.95,3835.97
+Japan,Asia,2019,Wind,1706.67,2167.19
+Japan,Asia,2019,Tidal,937.75,1466.56
+Saudi Arabia,Asia,2019,Wind,6989.5,10699.87
+Saudi Arabia,Asia,2019,Hydro,1809.18,2251.66
+Saudi Arabia,Asia,2019,Geothermal,2844.27,2368.35
+Saudi Arabia,Asia,2019,Biomass,12634.67,17758.35
+South Korea,Asia,2019,Tidal,2899.73,2256.71
+South Korea,Asia,2019,Wind,5536.59,4676.83
+South Korea,Asia,2019,Biomass,9548.62,8578.88
+South Korea,Asia,2019,Geothermal,4541.1,2891.41
+United Arab Emirates,Asia,2019,Tidal,754.74,980.22
+United Arab Emirates,Asia,2019,Wind,4389.95,6702.27
+United Arab Emirates,Asia,2019,Biomass,2789.83,2395.51
+United Arab Emirates,Asia,2019,Solar,5012.17,7281.5
+United Arab Emirates,Asia,2019,Geothermal,410.12,331.79
+United Arab Emirates,Asia,2019,Hydro,529.49,685.05
+Denmark,Europe,2019,Wind,8166.25,11388.78
+Denmark,Europe,2019,Hydro,6912.87,5976.32
+Denmark,Europe,2019,Geothermal,5647.78,6724.22
+Denmark,Europe,2019,Tidal,4079.84,3058.09
+Denmark,Europe,2019,Biomass,1663.12,1334.4
+Denmark,Europe,2019,Solar,12916.64,18952.62
+Finland,Europe,2019,Hydro,2106.12,2538.04
+Finland,Europe,2019,Biomass,3174.07,2807.94
+Finland,Europe,2019,Wind,5771.54,3967.22
+Finland,Europe,2019,Geothermal,4036.81,3019.32
+Finland,Europe,2019,Solar,3401.15,2117.38
+France,Europe,2019,Biomass,4609.55,6691.98
+France,Europe,2019,Tidal,2522.71,2312.47
+France,Europe,2019,Solar,974.82,1074.54
+Germany,Europe,2019,Geothermal,9799.42,8586.92
+Germany,Europe,2019,Wind,6282.09,3949.55
+Germany,Europe,2019,Solar,13089.33,11045.61
+Germany,Europe,2019,Biomass,1857.73,2452.34
+Italy,Europe,2019,Wind,7443.56,5018.45
+Italy,Europe,2019,Solar,1250.66,1808.16
+Italy,Europe,2019,Hydro,4306.6,4939.87
+Netherlands,Europe,2019,Hydro,2747.74,3996.11
+Netherlands,Europe,2019,Biomass,1925.2,1609.09
+Netherlands,Europe,2019,Geothermal,1177.24,1384.31
+Netherlands,Europe,2019,Tidal,899.14,1401.89
+Norway,Europe,2019,Solar,6228.06,7214.24
+Norway,Europe,2019,Geothermal,4931.97,3207.51
+Norway,Europe,2019,Wind,4188.36,3170.28
+Norway,Europe,2019,Tidal,1871.64,2726.21
+Norway,Europe,2019,Biomass,2439.03,2036.59
+Poland,Europe,2019,Solar,1129.54,1511.04
+Spain,Europe,2019,Hydro,2454.44,2425.66
+Spain,Europe,2019,Tidal,2520.28,3642.86
+Spain,Europe,2019,Geothermal,2861.88,2260.64
+Spain,Europe,2019,Biomass,2901.75,4018.63
+Sweden,Europe,2019,Solar,3967.67,2554.59
+Sweden,Europe,2019,Hydro,2996.8,1820.05
+Sweden,Europe,2019,Wind,3644.32,5642.18
+United Kingdom,Europe,2019,Wind,8113.52,5672.8
+United Kingdom,Europe,2019,Hydro,8494.86,11629.15
+United Kingdom,Europe,2019,Geothermal,5299.43,4390.54
+Canada,North America,2019,Hydro,10166.65,11551.51
+Canada,North America,2019,Biomass,1952.08,2019.55
+Canada,North America,2019,Wind,13531.57,11895.94
+Canada,North America,2019,Solar,1237.67,981.63
+Mexico,North America,2019,Geothermal,8122.8,8623.34
+Mexico,North America,2019,Hydro,3677.12,4212.62
+Mexico,North America,2019,Biomass,2724.33,3522.11
+United States,North America,2019,Tidal,2148.22,2447.64
+United States,North America,2019,Geothermal,2643.88,2058.66
+United States,North America,2019,Wind,1862.61,2311.43
+United States,North America,2019,Biomass,2118.1,2624.22
+United States,North America,2019,Solar,606.88,801.52
+Australia,Oceania,2019,Tidal,727.89,1061.01
+Australia,Oceania,2019,Hydro,1317.27,1881.51
+Australia,Oceania,2019,Biomass,615.64,430.69
+Australia,Oceania,2019,Solar,3982.8,5034.83
+Argentina,South America,2019,Biomass,4673.67,3411.35
+Argentina,South America,2019,Wind,1577.51,1393.41
+Argentina,South America,2019,Hydro,574.66,884.12
+Argentina,South America,2019,Tidal,2874.91,4505.46
+Brazil,South America,2019,Hydro,3535.3,4096.88
+Brazil,South America,2019,Geothermal,2388.05,3718.24
+Brazil,South America,2019,Solar,4853.11,3836.29
+Brazil,South America,2019,Wind,3956.02,5829.67
+Chile,South America,2019,Solar,7229.82,5258.93
+Chile,South America,2019,Biomass,6434.74,7663.58
+Chile,South America,2019,Wind,7800.32,7222.08
+Chile,South America,2019,Tidal,5066.06,5798.24
+Chile,South America,2019,Geothermal,5041.69,7935.07
+South Africa,Africa,2020,Biomass,1674.23,1268.42
+South Africa,Africa,2020,Geothermal,10366.38,8372.26
+South Africa,Africa,2020,Wind,2468.25,3406.03
+South Africa,Africa,2020,Tidal,6308.12,4039.28
+South Africa,Africa,2020,Hydro,1945.49,2074
+China,Asia,2020,Hydro,5075.3,5425.57
+China,Asia,2020,Wind,5774.8,6057.35
+China,Asia,2020,Geothermal,7475.71,11844.81
+China,Asia,2020,Biomass,2794.61,3150.81
+India,Asia,2020,Biomass,3762.28,4646.63
+India,Asia,2020,Solar,11275.58,13979.4
+India,Asia,2020,Geothermal,3856.67,5942.76
+Japan,Asia,2020,Wind,4383.78,6736.42
+Japan,Asia,2020,Geothermal,3024.89,3313.42
+Japan,Asia,2020,Solar,5958.4,4108.08
+Saudi Arabia,Asia,2020,Biomass,4827.21,2899.8
+Saudi Arabia,Asia,2020,Hydro,4118.77,5895.4
+Saudi Arabia,Asia,2020,Wind,3897.61,3065.96
+Saudi Arabia,Asia,2020,Geothermal,2164.76,1634.45
+South Korea,Asia,2020,Biomass,5692.8,4977.89
+South Korea,Asia,2020,Geothermal,3642.84,4190.98
+South Korea,Asia,2020,Wind,5385.87,6349.76
+South Korea,Asia,2020,Tidal,4581.75,5553.33
+South Korea,Asia,2020,Hydro,3089.66,2992.55
+United Arab Emirates,Asia,2020,Solar,4774,3071.98
+United Arab Emirates,Asia,2020,Geothermal,4125.24,6040.52
+United Arab Emirates,Asia,2020,Hydro,332.37,328.6
+United Arab Emirates,Asia,2020,Tidal,632.99,579.47
+Denmark,Europe,2020,Solar,8924.61,5703.15
+Denmark,Europe,2020,Geothermal,7776.35,7545.99
+Denmark,Europe,2020,Biomass,2927.6,4105.37
+Finland,Europe,2020,Solar,10494.01,14730.29
+Finland,Europe,2020,Geothermal,6050.87,9600.54
+Finland,Europe,2020,Biomass,6283.22,4325.67
+France,Europe,2020,Solar,9436.61,6000.73
+France,Europe,2020,Wind,6771.13,10816.38
+France,Europe,2020,Tidal,1992.58,2774.71
+France,Europe,2020,Geothermal,5702.55,8573.35
+France,Europe,2020,Hydro,1095.62,1351.72
+France,Europe,2020,Biomass,2337.81,2278.99
+Germany,Europe,2020,Tidal,3018.91,3998.8
+Italy,Europe,2020,Biomass,1343.57,1198.21
+Italy,Europe,2020,Tidal,1419.65,1416.05
+Italy,Europe,2020,Hydro,1785.64,1715.69
+Italy,Europe,2020,Solar,7772.25,10336.89
+Netherlands,Europe,2020,Hydro,4680.22,5465.72
+Netherlands,Europe,2020,Solar,2633.38,2895.66
+Netherlands,Europe,2020,Biomass,4311.06,4029.36
+Netherlands,Europe,2020,Tidal,4575.45,3924.43
+Netherlands,Europe,2020,Geothermal,1074.67,1519.39
+Norway,Europe,2020,Biomass,1323.41,1395.48
+Norway,Europe,2020,Geothermal,3754.13,5820.23
+Norway,Europe,2020,Tidal,2123.05,2669.03
+Poland,Europe,2020,Hydro,4578.78,3143.21
+Poland,Europe,2020,Tidal,1677.23,2502.13
+Spain,Europe,2020,Wind,4276.94,5829.12
+Spain,Europe,2020,Geothermal,2103.8,2920.26
+Spain,Europe,2020,Solar,2190.01,1527.76
+Spain,Europe,2020,Hydro,1813.25,1249.87
+Spain,Europe,2020,Biomass,1686.28,2447.15
+Sweden,Europe,2020,Solar,3518.21,3277.97
+Sweden,Europe,2020,Hydro,1531.94,1513.61
+Sweden,Europe,2020,Geothermal,506.48,644.9
+Sweden,Europe,2020,Wind,3924.12,4544.46
+Sweden,Europe,2020,Biomass,4124.47,5592.62
+United Kingdom,Europe,2020,Biomass,9429.54,8973.59
+United Kingdom,Europe,2020,Wind,10603.91,12262.05
+United Kingdom,Europe,2020,Tidal,4715.87,3887.03
+United Kingdom,Europe,2020,Solar,11813.03,8189.15
+United Kingdom,Europe,2020,Geothermal,9142.85,13422.55
+Canada,North America,2020,Hydro,5132.59,3438.7
+Canada,North America,2020,Biomass,4131.42,4166.09
+Canada,North America,2020,Solar,4706.87,6160.28
+Mexico,North America,2020,Wind,8622.83,9306.06
+Mexico,North America,2020,Solar,6784,8922.56
+Mexico,North America,2020,Tidal,3641.66,2346.31
+Mexico,North America,2020,Geothermal,3784.7,5660.02
+Mexico,North America,2020,Hydro,6615.24,8544.96
+United States,North America,2020,Hydro,3029.19,4686
+United States,North America,2020,Solar,474.84,438.83
+United States,North America,2020,Wind,5021.4,7188.97
+United States,North America,2020,Geothermal,549.47,747.61
+Australia,Oceania,2020,Wind,3973.18,3015.55
+Australia,Oceania,2020,Biomass,1637.44,2055.78
+Australia,Oceania,2020,Solar,5567.89,4467.22
+Argentina,South America,2020,Tidal,3381.2,4092.27
+Argentina,South America,2020,Solar,2817.28,3005.91
+Argentina,South America,2020,Biomass,4557.97,3941.12
+Brazil,South America,2020,Geothermal,6224.2,6041.86
+Brazil,South America,2020,Biomass,1644.76,1226.86
+Chile,South America,2020,Geothermal,5386.32,7386.49
+Chile,South America,2020,Hydro,2244.9,3492.8
+Chile,South America,2020,Tidal,7527.59,9305.1
+South Africa,Africa,2021,Biomass,7070.24,11189.13
+South Africa,Africa,2021,Tidal,2511.23,3089.56
+South Africa,Africa,2021,Wind,8979.24,7723.64
+China,Asia,2021,Geothermal,2348.34,2468.41
+China,Asia,2021,Solar,8521.7,9838.65
+China,Asia,2021,Hydro,6216.11,4645.6
+India,Asia,2021,Hydro,970.52,626.43
+Japan,Asia,2021,Tidal,595.06,755.28
+Japan,Asia,2021,Hydro,1655.26,1419
+Japan,Asia,2021,Wind,3948.89,3130.73
+Japan,Asia,2021,Biomass,4210.76,6303.69
+Saudi Arabia,Asia,2021,Solar,6803.56,8987.53
+Saudi Arabia,Asia,2021,Hydro,8815.65,8133.32
+Saudi Arabia,Asia,2021,Geothermal,7443.53,4962.45
+Saudi Arabia,Asia,2021,Wind,7937.94,8922.8
+Saudi Arabia,Asia,2021,Tidal,4681.85,6724.54
+South Korea,Asia,2021,Solar,8756.12,13897.62
+South Korea,Asia,2021,Biomass,5780.74,4508.44
+South Korea,Asia,2021,Geothermal,2196.22,2553.4
+United Arab Emirates,Asia,2021,Hydro,2225.6,1684.79
+United Arab Emirates,Asia,2021,Solar,2071.23,2279.7
+United Arab Emirates,Asia,2021,Wind,693.39,587.57
+United Arab Emirates,Asia,2021,Tidal,4585.34,2886.32
+United Arab Emirates,Asia,2021,Geothermal,3461.18,2894.26
+Denmark,Europe,2021,Hydro,3105.19,4065.16
+Denmark,Europe,2021,Geothermal,2564.59,1557.2
+Denmark,Europe,2021,Tidal,1907.02,2774.67
+Denmark,Europe,2021,Wind,11164.61,9861.33
+Denmark,Europe,2021,Biomass,5131.76,4938.14
+Finland,Europe,2021,Biomass,6294.16,9395.21
+Finland,Europe,2021,Geothermal,1730.35,2692.47
+Finland,Europe,2021,Solar,2496.29,1962.1
+Finland,Europe,2021,Hydro,4792.45,5096.54
+Finland,Europe,2021,Tidal,3547.38,2996.65
+Finland,Europe,2021,Wind,1021.13,1456.38
+France,Europe,2021,Biomass,4947.82,5068.1
+France,Europe,2021,Hydro,412.43,579.31
+France,Europe,2021,Tidal,1114.04,1096.99
+Germany,Europe,2021,Hydro,11884.14,13706.68
+Germany,Europe,2021,Solar,7061.65,4946.87
+Italy,Europe,2021,Wind,4013.36,4197.07
+Italy,Europe,2021,Solar,1728.49,1977.61
+Italy,Europe,2021,Geothermal,5167.49,3543.39
+Netherlands,Europe,2021,Wind,6555.61,5077.57
+Netherlands,Europe,2021,Tidal,3203.14,4641.03
+Netherlands,Europe,2021,Hydro,6088.83,6621.56
+Norway,Europe,2021,Tidal,3262.13,2308.82
+Poland,Europe,2021,Geothermal,1957.62,2267.88
+Poland,Europe,2021,Tidal,518.99,560.4
+Poland,Europe,2021,Biomass,5401.26,3957.57
+Poland,Europe,2021,Hydro,2254.96,3152.47
+Spain,Europe,2021,Wind,728.63,1059.6
+Spain,Europe,2021,Hydro,1829.09,2138.94
+Spain,Europe,2021,Solar,4434.69,6507.9
+Spain,Europe,2021,Geothermal,2538.7,3340.09
+Spain,Europe,2021,Biomass,4338.47,3370.23
+Sweden,Europe,2021,Tidal,2422.4,2798.04
+Sweden,Europe,2021,Geothermal,6800.04,5059.74
+Sweden,Europe,2021,Solar,2841.24,1950.53
+Sweden,Europe,2021,Wind,3305.76,4167.65
+Sweden,Europe,2021,Hydro,1083.81,1074.05
+Sweden,Europe,2021,Biomass,6153.73,8180.3
+United Kingdom,Europe,2021,Wind,14198.13,22355.62
+United Kingdom,Europe,2021,Biomass,4711.95,2855.94
+United Kingdom,Europe,2021,Tidal,4486.41,3328.35
+Canada,North America,2021,Tidal,6624.4,8950.48
+Canada,North America,2021,Geothermal,5482.4,8230.07
+Canada,North America,2021,Biomass,1718.01,1916.36
+Canada,North America,2021,Solar,17388.72,21136.25
+Canada,North America,2021,Wind,911.99,808.86
+Mexico,North America,2021,Hydro,4900.48,5759.22
+Mexico,North America,2021,Solar,6014.73,8136.02
+Mexico,North America,2021,Tidal,1076.1,1657.92
+Mexico,North America,2021,Geothermal,6513.89,7742.34
+United States,North America,2021,Geothermal,563.85,694.16
+United States,North America,2021,Tidal,772.87,565.98
+United States,North America,2021,Hydro,1362.95,1619.61
+Australia,Oceania,2021,Solar,582.66,754.89
+Australia,Oceania,2021,Hydro,3079.47,2163.1
+Australia,Oceania,2021,Wind,4166.52,3050.62
+Argentina,South America,2021,Hydro,2272.23,1932.75
+Argentina,South America,2021,Wind,6207.27,8165.04
+Argentina,South America,2021,Geothermal,1436.02,1781.15
+Argentina,South America,2021,Tidal,2805.05,4319.53
+Argentina,South America,2021,Biomass,2339.99,3042.12
+Brazil,South America,2021,Geothermal,1424.67,1881.01
+Brazil,South America,2021,Solar,3069.73,4400.04
+Brazil,South America,2021,Hydro,5313.45,5794.83
+Chile,South America,2021,Solar,2055.79,2325.62
+Chile,South America,2021,Hydro,7895.14,7141.55
+Chile,South America,2021,Biomass,7029.06,7058.56
+South Africa,Africa,2022,Biomass,1234.07,1583.57
+South Africa,Africa,2022,Hydro,9158.02,8531.15
+South Africa,Africa,2022,Tidal,1274.12,1121.04
+South Africa,Africa,2022,Geothermal,2241.9,2631.73
+China,Asia,2022,Hydro,3017.6,1826.41
+China,Asia,2022,Solar,8310.08,11562.48
+China,Asia,2022,Biomass,1399.75,1243.12
+China,Asia,2022,Tidal,1529.3,2131.69
+India,Asia,2022,Geothermal,4224.23,4907.08
+India,Asia,2022,Hydro,6809.77,9947.56
+Japan,Asia,2022,Solar,2073.32,1758.27
+Japan,Asia,2022,Hydro,376.68,472.24
+Japan,Asia,2022,Tidal,2296.52,2055.47
+Japan,Asia,2022,Geothermal,856.82,776.97
+Saudi Arabia,Asia,2022,Geothermal,8843.6,13603.61
+Saudi Arabia,Asia,2022,Hydro,11417.49,7763.4
+South Korea,Asia,2022,Tidal,771.19,598.16
+South Korea,Asia,2022,Wind,7466.5,6972.16
+South Korea,Asia,2022,Solar,2323.4,3364.45
+South Korea,Asia,2022,Biomass,5811.31,5470.54
+South Korea,Asia,2022,Geothermal,3899.82,4315.89
+South Korea,Asia,2022,Hydro,814.37,652.46
+United Arab Emirates,Asia,2022,Tidal,1925.99,2513.68
+United Arab Emirates,Asia,2022,Geothermal,5839.99,5427.01
+United Arab Emirates,Asia,2022,Solar,1558.62,2333.53
+Denmark,Europe,2022,Hydro,3509.48,3181.88
+Denmark,Europe,2022,Geothermal,10199.67,14840.51
+Denmark,Europe,2022,Biomass,7428.1,9651.42
+Denmark,Europe,2022,Tidal,2461.24,2309.72
+Finland,Europe,2022,Tidal,1823.26,2756.96
+Finland,Europe,2022,Wind,7082.82,10400.03
+Finland,Europe,2022,Biomass,6596.36,4851.61
+Finland,Europe,2022,Geothermal,8188.34,6246.45
+France,Europe,2022,Hydro,4724.31,6352.63
+France,Europe,2022,Tidal,4047.27,5346.15
+France,Europe,2022,Wind,9741.86,12257.5
+France,Europe,2022,Biomass,5336.18,5081.76
+France,Europe,2022,Solar,5596.34,6574.65
+Germany,Europe,2022,Wind,7809.37,7058.39
+Germany,Europe,2022,Geothermal,8703.22,9142.86
+Germany,Europe,2022,Hydro,11461.42,13826.11
+Germany,Europe,2022,Tidal,8485.77,13132.49
+Germany,Europe,2022,Solar,2877.17,3537.32
+Italy,Europe,2022,Solar,6476.91,9596.54
+Italy,Europe,2022,Geothermal,5810.7,4490.97
+Italy,Europe,2022,Hydro,7188.61,9183.7
+Italy,Europe,2022,Tidal,2822.18,4507.78
+Netherlands,Europe,2022,Wind,6434.87,5606.37
+Netherlands,Europe,2022,Biomass,10693.09,13908.47
+Netherlands,Europe,2022,Geothermal,2716.66,1692.75
+Netherlands,Europe,2022,Tidal,612.43,406.53
+Norway,Europe,2022,Tidal,1942.12,2879.57
+Norway,Europe,2022,Geothermal,4886.42,5415.78
+Norway,Europe,2022,Biomass,4215.23,5608.34
+Norway,Europe,2022,Solar,8964.26,10656.81
+Norway,Europe,2022,Hydro,2997.91,1944.36
+Poland,Europe,2022,Hydro,2521.87,2684.02
+Poland,Europe,2022,Geothermal,1016.17,1517.58
+Poland,Europe,2022,Wind,4714.53,6950.16
+Spain,Europe,2022,Hydro,689.88,551.5
+Spain,Europe,2022,Biomass,4138.98,3513.26
+Spain,Europe,2022,Wind,4433.25,4448.29
+Sweden,Europe,2022,Hydro,3464.86,3854.84
+Sweden,Europe,2022,Wind,6000.47,9021.98
+Sweden,Europe,2022,Biomass,5590.34,8113.75
+Sweden,Europe,2022,Solar,3800.48,4321.72
+Sweden,Europe,2022,Geothermal,4157.89,3302.72
+Sweden,Europe,2022,Tidal,3124.69,3592.35
+United Kingdom,Europe,2022,Tidal,3868.31,3416.67
+United Kingdom,Europe,2022,Geothermal,8309.46,7246.7
+United Kingdom,Europe,2022,Biomass,6604.06,5766.45
+United Kingdom,Europe,2022,Solar,10977.01,8947.72
+Canada,North America,2022,Tidal,4090.11,2659.46
+Canada,North America,2022,Biomass,2596.22,2661.51
+Canada,North America,2022,Geothermal,7975.13,4829.3
+Canada,North America,2022,Solar,3983.98,2487.7
+Canada,North America,2022,Hydro,2963.83,3842.17
+Mexico,North America,2022,Geothermal,7954.82,6080.3
+Mexico,North America,2022,Solar,5113.84,4126.19
+Mexico,North America,2022,Wind,5079.5,6586.91
+Mexico,North America,2022,Hydro,5909.69,4225.93
+Mexico,North America,2022,Tidal,2059.8,2070.2
+United States,North America,2022,Hydro,3642.15,4637.78
+United States,North America,2022,Wind,995.81,1026.73
+United States,North America,2022,Tidal,915.81,1395.02
+United States,North America,2022,Geothermal,2518.74,2365.86
+United States,North America,2022,Solar,4245.29,5878.11
+Australia,Oceania,2022,Wind,1285.05,900.13
+Australia,Oceania,2022,Hydro,2739.57,4282.63
+Argentina,South America,2022,Biomass,3363.15,5249.63
+Argentina,South America,2022,Solar,6749.72,9320.94
+Argentina,South America,2022,Geothermal,2786.95,3434.28
+Brazil,South America,2022,Solar,4784.1,6901.28
+Brazil,South America,2022,Biomass,1979.62,3122.81
+Brazil,South America,2022,Tidal,2264.73,3184.59
+Brazil,South America,2022,Wind,602.33,666.02
+Brazil,South America,2022,Geothermal,510.81,588.27
+Chile,South America,2022,Geothermal,6052.47,4770.72
+Chile,South America,2022,Hydro,3691.36,3623.31
+Chile,South America,2022,Tidal,1905.67,1280.13
+Chile,South America,2022,Solar,11494.16,11025.71
+Chile,South America,2022,Wind,4649.92,6055.23
+South Africa,Africa,2023,Biomass,6817.93,7803.24
+South Africa,Africa,2023,Hydro,2333.17,3463.95
+South Africa,Africa,2023,Geothermal,11525.27,16075.98
+South Africa,Africa,2023,Solar,9869.21,8347.23
+South Africa,Africa,2023,Tidal,5127.79,5068.21
+China,Asia,2023,Hydro,2057.37,2091.46
+China,Asia,2023,Geothermal,6726.93,4491.43
+China,Asia,2023,Tidal,2909.13,4599.45
+China,Asia,2023,Biomass,7747.52,8941.82
+China,Asia,2023,Solar,7676.28,9186.5
+China,Asia,2023,Wind,2181.41,1622.05
+India,Asia,2023,Tidal,3984.64,5766.46
+India,Asia,2023,Geothermal,11702.79,9539.46
+India,Asia,2023,Hydro,3284.94,2047.1
+India,Asia,2023,Wind,8706.25,9561.77
+India,Asia,2023,Solar,3097.1,2872.36
+Japan,Asia,2023,Geothermal,4995.88,3406.54
+Japan,Asia,2023,Solar,1296.46,976.47
+Saudi Arabia,Asia,2023,Solar,4717.12,6251
+Saudi Arabia,Asia,2023,Tidal,2055.43,3285.47
+Saudi Arabia,Asia,2023,Biomass,4753.96,3709.97
+Saudi Arabia,Asia,2023,Geothermal,6293.09,6662.62
+South Korea,Asia,2023,Wind,7819.25,9595.79
+South Korea,Asia,2023,Tidal,8016.29,7644.3
+South Korea,Asia,2023,Biomass,6323.55,5111.09
+United Arab Emirates,Asia,2023,Hydro,1242.89,1140.47
+United Arab Emirates,Asia,2023,Geothermal,6325.06,9361.92
+United Arab Emirates,Asia,2023,Solar,7166.33,11292.54
+United Arab Emirates,Asia,2023,Tidal,1954.94,2696.07
+United Arab Emirates,Asia,2023,Biomass,2907.63,4459.63
+Denmark,Europe,2023,Hydro,1859.88,1528.39
+Denmark,Europe,2023,Tidal,8725.21,9065.25
+Denmark,Europe,2023,Wind,2292.21,1708.45
+Finland,Europe,2023,Geothermal,6983.7,8997.43
+Finland,Europe,2023,Hydro,8973.69,12803.86
+Finland,Europe,2023,Wind,3039.7,2111.1
+Finland,Europe,2023,Tidal,3120.97,2934.69
+Finland,Europe,2023,Biomass,7573.99,4642.08
+Finland,Europe,2023,Solar,6458.18,9921.81
+France,Europe,2023,Geothermal,3620.24,5689.17
+France,Europe,2023,Tidal,5366.5,7226.31
+France,Europe,2023,Solar,8549.05,12852.67
+Germany,Europe,2023,Solar,12474.46,9443.88
+Germany,Europe,2023,Hydro,4137.54,5407.58
+Germany,Europe,2023,Geothermal,12802.59,19510.01
+Germany,Europe,2023,Biomass,13284.97,20374.74
+Germany,Europe,2023,Wind,996.9,1047.25
+Germany,Europe,2023,Tidal,6879.8,10377.57
+Italy,Europe,2023,Biomass,4459.83,6058.13
+Italy,Europe,2023,Geothermal,5612.11,5722.07
+Italy,Europe,2023,Hydro,3234.99,4766.65
+Netherlands,Europe,2023,Tidal,4501.69,3927.34
+Netherlands,Europe,2023,Solar,1418.02,1413.78
+Norway,Europe,2023,Solar,9283.2,14072.5
+Norway,Europe,2023,Biomass,6257.04,5011.2
+Norway,Europe,2023,Wind,8406.82,13202.84
+Norway,Europe,2023,Tidal,1850.13,2354.06
+Norway,Europe,2023,Hydro,2590.92,3368.23
+Poland,Europe,2023,Biomass,1176.83,1269.2
+Poland,Europe,2023,Hydro,2405.22,1864.69
+Poland,Europe,2023,Wind,8463.19,6017.04
+Spain,Europe,2023,Wind,5054.24,4740.04
+Spain,Europe,2023,Solar,6696.68,6014.97
+Spain,Europe,2023,Biomass,4496.27,3287.7
+Sweden,Europe,2023,Wind,1315.37,1651.41
+Sweden,Europe,2023,Hydro,4649.92,4267.63
+Sweden,Europe,2023,Biomass,2308.23,2373.57
+Sweden,Europe,2023,Solar,1071.22,1420
+Sweden,Europe,2023,Tidal,653.4,875.44
+United Kingdom,Europe,2023,Wind,1186.23,1069.29
+United Kingdom,Europe,2023,Biomass,12495.47,17571.13
+United Kingdom,Europe,2023,Geothermal,2837.96,2781.79
+United Kingdom,Europe,2023,Hydro,2853.55,2648.44
+Canada,North America,2023,Geothermal,14390.82,19336.3
+Canada,North America,2023,Tidal,6750.5,5903.97
+Canada,North America,2023,Wind,12489.02,19358.48
+Canada,North America,2023,Hydro,11241.04,12418.86
+Canada,North America,2023,Solar,9484.17,13291.27
+Mexico,North America,2023,Solar,6021.74,3788.83
+Mexico,North America,2023,Hydro,6703.52,9443.45
+Mexico,North America,2023,Wind,6550.89,6477.75
+Mexico,North America,2023,Geothermal,6146.48,4837.03
+Mexico,North America,2023,Tidal,4225.05,5117.84
+United States,North America,2023,Geothermal,2004.48,3177.72
+United States,North America,2023,Wind,8964.5,13683.12
+United States,North America,2023,Solar,5137.58,3342.45
+United States,North America,2023,Biomass,3066.68,3137.24
+Australia,Oceania,2023,Geothermal,8707.68,6373.87
+Australia,Oceania,2023,Hydro,3016.9,3403.93
+Australia,Oceania,2023,Wind,7035.41,7702.98
+Australia,Oceania,2023,Biomass,3027.22,3883.75
+Argentina,South America,2023,Solar,2644.84,2092.08
+Argentina,South America,2023,Geothermal,3750.87,4085.57
+Argentina,South America,2023,Hydro,3688.89,2729.57
+Brazil,South America,2023,Biomass,7139.42,4951.19
+Brazil,South America,2023,Solar,1445.01,1082.16
+Brazil,South America,2023,Wind,6608.64,5731.84
+Brazil,South America,2023,Tidal,533.85,325.35
+Brazil,South America,2023,Geothermal,5779.05,8367.3
+Brazil,South America,2023,Hydro,2795.69,3256.98
+Chile,South America,2023,Biomass,6257.27,7370.68
+Chile,South America,2023,Wind,8865.61,9006.18
+Chile,South America,2023,Tidal,4432.8,4480.84
+Chile,South America,2023,Geothermal,6039.09,6341.32
+South Africa,Africa,2024,Wind,14603.52,16493.69
+South Africa,Africa,2024,Biomass,3996.42,5780.84
+South Africa,Africa,2024,Solar,4290.09,6416.97
+South Africa,Africa,2024,Hydro,16702.39,11693.92
+China,Asia,2024,Solar,6267.98,5922
+China,Asia,2024,Biomass,1159.25,1595.35
+China,Asia,2024,Wind,8120.46,10842.33
+China,Asia,2024,Tidal,472.17,377.49
+China,Asia,2024,Geothermal,3821.58,4950.43
+India,Asia,2024,Wind,6536.64,5194.38
+India,Asia,2024,Hydro,4256.29,5807.3
+India,Asia,2024,Tidal,2372.2,2631.06
+India,Asia,2024,Solar,11401.97,15550.65
+Japan,Asia,2024,Tidal,298.8,476.32
+Japan,Asia,2024,Biomass,5000.51,5892.16
+Japan,Asia,2024,Geothermal,3992.16,5282.75
+Japan,Asia,2024,Wind,970.83,1077.99
+Saudi Arabia,Asia,2024,Solar,8338.44,13270.32
+Saudi Arabia,Asia,2024,Geothermal,7531.6,11761.74
+Saudi Arabia,Asia,2024,Biomass,13452.47,21294.67
+South Korea,Asia,2024,Tidal,4260.35,5869.87
+United Arab Emirates,Asia,2024,Tidal,246.45,214.38
+United Arab Emirates,Asia,2024,Geothermal,5081.82,4949.49
+United Arab Emirates,Asia,2024,Hydro,4346.83,4679.81
+United Arab Emirates,Asia,2024,Biomass,1431.97,1135.92
+Denmark,Europe,2024,Biomass,8214.63,10982.35
+Finland,Europe,2024,Wind,8217.33,11762.42
+Finland,Europe,2024,Biomass,4323.11,4161.29
+Finland,Europe,2024,Solar,2731.29,2242.7
+France,Europe,2024,Geothermal,3653.51,4650.29
+France,Europe,2024,Tidal,328.53,487.62
+France,Europe,2024,Hydro,4528.39,6297.55
+France,Europe,2024,Wind,10334.92,16328.58
+France,Europe,2024,Biomass,8255.45,12715.8
+France,Europe,2024,Solar,9304.01,6892.01
+Germany,Europe,2024,Wind,7925.43,5740.81
+Germany,Europe,2024,Solar,4712.71,4277.31
+Germany,Europe,2024,Tidal,14009.57,22409.32
+Germany,Europe,2024,Biomass,2377.43,3713.33
+Germany,Europe,2024,Geothermal,1583.58,1634.3
+Italy,Europe,2024,Geothermal,3142.21,2631.85
+Italy,Europe,2024,Solar,4306.78,4353.68
+Italy,Europe,2024,Biomass,10051.5,6234.27
+Netherlands,Europe,2024,Solar,12779.25,9929.95
+Netherlands,Europe,2024,Biomass,666.56,943.44
+Netherlands,Europe,2024,Wind,9647.05,11229.02
+Netherlands,Europe,2024,Tidal,4318.03,2626.73
+Norway,Europe,2024,Tidal,3886.03,2957.02
+Norway,Europe,2024,Biomass,816.69,608.7
+Norway,Europe,2024,Solar,12078.66,13333.55
+Poland,Europe,2024,Hydro,1140.24,1493.52
+Poland,Europe,2024,Biomass,7343.59,11315.56
+Poland,Europe,2024,Wind,974.85,921.45
+Spain,Europe,2024,Biomass,2876.3,3628.93
+Spain,Europe,2024,Hydro,4098.57,4167.33
+Spain,Europe,2024,Solar,7203.98,6165.09
+Spain,Europe,2024,Tidal,2975.18,2193.19
+Sweden,Europe,2024,Biomass,867.66,536.76
+United Kingdom,Europe,2024,Geothermal,12265.99,10344.11
+United Kingdom,Europe,2024,Hydro,8803.25,12606.48
+United Kingdom,Europe,2024,Biomass,6648,6051.51
+United Kingdom,Europe,2024,Solar,14508.57,17024.35
+United Kingdom,Europe,2024,Tidal,1696.6,1884.05
+Canada,North America,2024,Wind,4088.45,5290.25
+Canada,North America,2024,Geothermal,5678.44,8545.14
+Canada,North America,2024,Biomass,13894.43,18974.16
+Mexico,North America,2024,Hydro,1188.5,1076.04
+Mexico,North America,2024,Geothermal,5490.23,5590.37
+Mexico,North America,2024,Biomass,2190.77,2706.7
+Mexico,North America,2024,Tidal,8089.98,9343.22
+Mexico,North America,2024,Solar,11446,13933.93
+United States,North America,2024,Tidal,2049.22,2425.6
+United States,North America,2024,Hydro,1405.29,2193.35
+United States,North America,2024,Biomass,4482.85,3793.46
+United States,North America,2024,Solar,6826.99,8050.25
+United States,North America,2024,Wind,984.92,1166.32
+United States,North America,2024,Geothermal,2895.21,3692.01
+Australia,Oceania,2024,Solar,752.32,496.88
+Australia,Oceania,2024,Geothermal,2321.33,2579.7
+Argentina,South America,2024,Solar,891.86,640.52
+Argentina,South America,2024,Wind,4316.86,5517.28
+Argentina,South America,2024,Tidal,889.83,1240.15
+Argentina,South America,2024,Geothermal,3037.13,3253.43
+Brazil,South America,2024,Biomass,933.46,1427.04
+Brazil,South America,2024,Solar,4730.47,6548.75
+Brazil,South America,2024,Wind,1747.73,1971.72
+Brazil,South America,2024,Hydro,4643.37,6907.27
+Brazil,South America,2024,Tidal,3291.29,4450.66
+Chile,South America,2024,Tidal,4777.83,4359.77
+Chile,South America,2024,Wind,6902.07,8907.1
